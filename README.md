@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-🌱 I’m currently learning LaTeX!
-🦑 I'm confident in Shell, Powershell, R, Eidos, and Papyrus. 
-🔭 I’m currently working on the first chapter of my PhD! I am looking at the energetic requirements of an immune response in fish. 
+🌱 I’m currently learning LaTeX! <br/>
+🦑 I'm confident in Shell, Powershell, R, Eidos, and Papyrus. <br/>
+🔭 I’m currently working on the first chapter of my PhD! I am looking at the energetic requirements of an immune response in fish. <br/>
 
-😄 My pronouns are She/They!
-📫 How to reach me: through the twitter linked to my profile!
-⚡ Fun fact: you can support me and buy me a coffee through Ko-fi! 
-
+<br/>
+<br/>
+😄 My pronouns are She/They!<br/>
+📫 How to reach me: through the twitter linked to my profile!<br/>
+⚡ Fun fact: you can support me and buy me a coffee through Ko-fi! <br/>
 <!--
 **sknief/sknief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
