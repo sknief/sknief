@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning LaTeX! <br/>
-🦑 I'm confident in Shell, Powershell, R, Eidos, and Papyrus. <br/>
+🌱 I’m currently not learning any new language. <br/>
+🦑 I'm confident in R, Eidos, Shell, Powershell, LaTeX and Papyrus. <br/>
 🔭 I’m currently working on the first chapter of my PhD! I am looking at the energetic requirements of an immune response in fish. <br/>
 
 <br/>
