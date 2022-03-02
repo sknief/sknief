@@ -5,13 +5,15 @@
 🔭 I’m currently working on the first chapter of my PhD! I am looking at the energetic requirements of an immune response in fish. <br/>
 
 <br/>
-😄 My pronouns are She/They.<br/>
+
 📫 How to reach me: through the twitter linked to my profile.<br/>
 ⚡ Fun fact: you can support me and buy me a coffee through Ko-fi! <br/>
 <!--
 **sknief/sknief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+😄 My pronouns are She/They.<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
