@@ -1,19 +1,24 @@
-### Hi there 👋
 
-🌱 I’m currently not learning any new language. <br/>
-🦑 I'm confident in R, Eidos, Shell, Powershell, LaTeX and Papyrus. <br/>
+![alt text](https://github.com/sknief/sknief/blob/main/combined.gif)
+
+
+### Hi! My name is Stella and I am a queer scholar and programmer
+
 🔭 I’m currently working on the first chapter of my PhD! I am looking at the energetic requirements of an immune response in fish. <br/>
+😄 My pronouns are She/They. <br/>
+🌱 I’m currently learning Javascript. <br/>
+🦑 I'm confident in R, Eidos, Shell, Powershell, LaTeX and Papyrus. <br/>
+
 
 <br/>
 
 📫 How to reach me: through the twitter linked to my profile.<br/>
-⚡ Fun fact: you can support me and buy me a coffee through Ko-fi! <br/>
+⚡ Fun fact: you can support me and my work by buying me a coffee through Ko-fi! <br/>
 <!--
 **sknief/sknief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-😄 My pronouns are She/They.<br/>
+<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
