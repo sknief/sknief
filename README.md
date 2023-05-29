@@ -1,8 +1,39 @@
 
-![alt text](https://github.com/sknief/sknief/blob/main/combined.gif)
+# Hi, my name is Stella and I am a proud queer scholar and programmer!
+Here are two of my favourite repos:
+
+![forthebadge2](https://forthebadge.com/images/badges/built-with-love.svg) [![forthebadge3](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+<br>
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sknief&repo=RespirometryAnalysis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com) 
+<br>
+ ![Slim](https://img.shields.io/badge/Made%20with-SLiM-br?style=for-the-badge&logo=appveyor) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sknief&repo=honours&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+and some more stats for you!
+
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sknief&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sknief&layout=compact&theme=dracula" />
+</a>
+
+----
+
+<!--- ![shields.io](https://img.shields.io/badge/Fuck%20it-It%20works-blue?style=for-the-badge&logo=appveyor?logoWidth=360)  [![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com) --->
 
 
-### Hi! My name is Stella and I am a queer scholar and programmer. 
 
 <!--
 🔭 I’m currently working on the first chapter of my PhD! I am looking at the energetic requirements of an immune response in fish. <br/>
