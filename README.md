@@ -6,7 +6,7 @@ Here are two of my favourite repos:
 <br>
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sknief&repo=RespirometryAnalysis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sknief&repo=RespirometryAnalysis&theme=dracula)](https://github.com/sknief/RespirometryAnalysis)
 
 <br>
 
@@ -14,7 +14,7 @@ Here are two of my favourite repos:
 <br>
  ![Slim](https://img.shields.io/badge/Made%20with-SLiM-br?style=for-the-badge&logo=appveyor) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sknief&repo=honours&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sknief&repo=honours&theme=dracula)](https://github.com/sknief/honours)
 
 <br>
 
