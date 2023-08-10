@@ -2,7 +2,8 @@
 # Hi, my name is Stella and I am a proud queer scholar and programmer!
 Here are two of my favourite repos:
 
-![forthebadge2](https://forthebadge.com/images/badges/built-with-love.svg) [![forthebadge3](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+![forthebadge2](https://img.shields.io/badge/Made_with-Love-orange?style=for-the-badge&labelColor=red) [![forthebadge3](https://img.shields.io/badge/Open_Source-orange?style=for-the-badge&labelColor=red
+)](https://forthebadge.com)
 <br>
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <br>
@@ -10,7 +11,7 @@ Here are two of my favourite repos:
 
 <br>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com) 
+[![forthebadge](https://img.shields.io/badge/Made_with-Resentment-orange?style=for-the-badge&labelColor=red)](https://forthebadge.com) 
 <br>
  ![Slim](https://img.shields.io/badge/Made%20with-SLiM-br?style=for-the-badge&logo=appveyor) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <br>
@@ -31,7 +32,11 @@ and some more stats for you!
 
 ----
 
-<!--- ![shields.io](https://img.shields.io/badge/Fuck%20it-It%20works-blue?style=for-the-badge&logo=appveyor?logoWidth=360)  [![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com) --->
+<!--- ![shields.io](https://img.shields.io/badge/Fuck%20it-It%20works-blue?style=for-the-badge&logo=appveyor?logoWidth=360)  [![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com) 
+
+(https://img.shields.io/badge/Made_with-Love-orange?style=for-the-badge&labelColor=red) 
+
+--->
 
 
 
