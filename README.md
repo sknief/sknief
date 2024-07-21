@@ -1,6 +1,8 @@
 
-# Hi, my name is Stella and I am a proud queer scholar and programmer!
-Here are two of my favourite repos:
+# Hi, my name is Stella and sometimes I write decent code.
+I am a PhD student at the University of Queensland and have experience with computer vision, recreating biological systems in silico, statistical analysis and data management, data pipelines, and very basic full stack web development.
+
+Here are two of my favourite public repos:
 
 ![forthebadge2](https://img.shields.io/badge/Made_with-Love-orange?style=for-the-badge&labelColor=red) [![forthebadge3](https://img.shields.io/badge/Open_Source-orange?style=for-the-badge&labelColor=red
 )](https://forthebadge.com)
