@@ -25,7 +25,7 @@ and some more stats for you!
 
 <br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sknief?cardType=github&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sknief&theme=dracula&hide_rank=TRUE)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sknief&layout=compact&theme=dracula" />
 </a>
