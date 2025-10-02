@@ -1,6 +1,14 @@
 
 # Hi, my name is Stella and sometimes I write decent code.
-I am a PhD student at the University of Queensland and have experience with computer vision, recreating biological systems in silico, statistical analysis and data management, data pipelines, and very basic full stack web development.
+I am a PhD student at the University of Queensland and am experienced with computer vision work, recreating biological systems in silico, statistical analysis and data management, data pipelines, and very basic full stack web development.
+
+
+
+----
+
+<!--- ![shields.io](https://img.shields.io/badge/Fuck%20it-It%20works-blue?style=for-the-badge&logo=appveyor?logoWidth=360)  [![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com) 
+
+(https://img.shields.io/badge/Made_with-Love-orange?style=for-the-badge&labelColor=red) 
 
 Here are two of my favourite public repos:
 
@@ -29,12 +37,6 @@ and some more stats for you!
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sknief&layout=compact&theme=dracula" />
 </a>
-
-----
-
-<!--- ![shields.io](https://img.shields.io/badge/Fuck%20it-It%20works-blue?style=for-the-badge&logo=appveyor?logoWidth=360)  [![forthebadge](https://forthebadge.com/images/badges/made-with-out-pants.svg)](https://forthebadge.com) 
-
-(https://img.shields.io/badge/Made_with-Love-orange?style=for-the-badge&labelColor=red) 
 
 --->
 
